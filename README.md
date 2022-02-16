@@ -8,3 +8,8 @@ Publish to GitHub Pages with:
 Available at:
 
 `https://doublebyte1.github.io/sprint-landing`
+
+
+As git submodule:
+
+`git submodule foreach git pull origin gh-pages`
